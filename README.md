@@ -1,6 +1,4 @@
-FAWAD
-FAWAD
-FAWAD
+Add new file
 # apiframework
 ## Automation Framework
 1. Folowing Page object model.
